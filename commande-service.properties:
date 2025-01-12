@@ -6,4 +6,4 @@ spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
 
 eureka.client.service-url.defaultZone=http://localhost:8761/eureka
 spring.application.name=commande-service
-mes-config-ms.commandes-last=10
+mes-config-ms.commandes-last=20
